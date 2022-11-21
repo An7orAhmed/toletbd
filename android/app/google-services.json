@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "832300336495",
+    "project_id": "toletbd-dcc",
+    "storage_bucket": "toletbd-dcc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832300336495:android:fa8f5481dca5a11567149a",
+        "android_client_info": {
+          "package_name": "com.example.toletbd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832300336495-016655brbv4o4m1p38gf4uakn5ijo7eb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAdJOnDJES51srwds7G_W-mNaYPOnKF0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832300336495-016655brbv4o4m1p38gf4uakn5ijo7eb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "832300336495-fhi31n4hehu2qkqh9s65me7270mgvpj5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.farfromhome"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
